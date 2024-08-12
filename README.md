@@ -2,6 +2,7 @@
 
 USAGE
 ./corewar [-dump nbr_cycle] [[-n prog_number] [-a load_address] prog_name] ...
+
 DESCRIPTION
 -dump nbr_cycle dumps the memory after the nbr_cycle execution (if the round isn’t
 already over) with the following format: 32 bytes/line in hexadecimal (A0BCDEFE1DD3...)
