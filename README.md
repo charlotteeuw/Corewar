@@ -5,7 +5,6 @@ Store and sort elements in a linked list
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting-started)
 - [How to use](#how-to-use)
 
 ## About
